@@ -17,7 +17,7 @@ body {
 }
 main { max-width: 640px; margin: 0 auto; padding: 48px 16px 64px; }
 header { text-align: center; margin-bottom: 40px; }
-header .hjerne { font-size: 44px; }
+header .ikon { display: block; margin: 0 auto 16px; border-radius: 20px; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.45); }
 h1 { font-size: 34px; margin: 8px 0 4px; }
 h2 { font-size: 22px; margin: 40px 0 8px; }
 p, li { color: var(--text); }
